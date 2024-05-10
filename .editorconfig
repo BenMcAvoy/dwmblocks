@@ -1,0 +1,6 @@
+root = true
+
+[*]
+TrimTrailingWhitespace = true
+IndentStyle = space
+IndentSize = 4
